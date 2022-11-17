@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/servet-k.github.io/memory/static/css/main.80707bdc.css",
+    "main.js": "/servet-k.github.io/memory/static/js/main.292b9814.js",
+    "static/js/787.18b835fd.chunk.js": "/servet-k.github.io/memory/static/js/787.18b835fd.chunk.js",
+    "index.html": "/servet-k.github.io/memory/index.html",
+    "main.80707bdc.css.map": "/servet-k.github.io/memory/static/css/main.80707bdc.css.map",
+    "main.292b9814.js.map": "/servet-k.github.io/memory/static/js/main.292b9814.js.map",
+    "787.18b835fd.chunk.js.map": "/servet-k.github.io/memory/static/js/787.18b835fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80707bdc.css",
+    "static/js/main.292b9814.js"
+  ]
+}
