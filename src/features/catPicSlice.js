@@ -63,7 +63,7 @@ const catPicSlice = createSlice({
             state.picArray[ind].isClicked=true;
         },
         reset:(state,action)=>{
-            state.picArray.map(item=>{item.isClicked=false})
+            state.picArray.map(item=>{return item.isClicked=false})
         }
 
     }
